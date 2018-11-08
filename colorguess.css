@@ -1,0 +1,32 @@
+*{
+	font-family:'Montserrat','sans-serif';
+	cursor:pointer;
+}
+
+#main_header{
+	text-transform:uppercase;
+	background:rgb(203,32,178);
+}
+
+#main_header .heading-1,#main_header .heading-3{
+	font-size:26px;
+	/*color:white;*/
+}
+
+#main_header .heading-2{
+	font-size:46px;
+/*	color:white;*/
+	font-weight:600;
+}
+
+#section-2{
+	height:500px;
+}
+
+#section-2 .color{
+	border:2px solid;
+	height:175px;
+	width:175px;
+	border-radius:25px;
+	margin:2rem;
+}
